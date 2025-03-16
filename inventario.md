@@ -2,3 +2,4 @@
 2111017
 
 -processori.md
+-schede_madri.md
