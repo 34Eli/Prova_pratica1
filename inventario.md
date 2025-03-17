@@ -6,5 +6,6 @@ Componenti:
 -schede_madri.md
 
 Periferiche:
+-tastiere.md
 
 Elettronica Padovana
