@@ -6,5 +6,6 @@ Componenti:
 -schede_madri.md
 
 Periferiche:
+-mouse.md
 
 Elettronica Padovana
