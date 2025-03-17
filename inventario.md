@@ -7,5 +7,6 @@ Componenti:
 
 Periferiche:
 -tastiere.md
+-mouse.md
 
 Elettronica Padovana
